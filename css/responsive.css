@@ -1,0 +1,26 @@
+/* headre responsive */
+@media (max-width:768px){
+    .navigation{
+        display: none;
+    }
+    .bar-burger{
+        display: block;
+        margin-right: 20px;
+        font-size: 40px;
+    }
+}
+/* section1 responsive */
+@media (max-width:700px) {
+    .section-title{
+        font-size: 40px;
+    }
+    
+}
+/* section2 responsive */
+@media (max-width:530px){
+    .block-item:nth-child(5){
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+}
