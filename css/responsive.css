@@ -17,10 +17,10 @@
     
 }
 /* section2 responsive */
-@media (max-width:530px){
+@media (max-width:760px){
     .block-item:nth-child(5){
         margin-top: 30px;
-        margin-bottom: 30px;
+        margin-bottom: 30px;    
     }
 
 }
